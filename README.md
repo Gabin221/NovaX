@@ -1,5 +1,7 @@
 # NovaX
 
++ visuel: [https://www.figma.com/proto/HxDZi27XPN2Oxo7lEuxhe4/NovaX?node-id=1-5](https://www.figma.com/proto/HxDZi27XPN2Oxo7lEuxhe4/NovaX?node-id=1-5)
+
 + couleurs:
 
     + [https://coolors.co/f06449-ede6e3-dadad9-36382e-5bc3eb](https://coolors.co/f06449-ede6e3-dadad9-36382e-5bc3eb)
